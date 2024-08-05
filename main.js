@@ -146,5 +146,5 @@ app.post(`/bot${token}`, (req, res) => {
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
     console.log(`Server is listening on port ${port}`);
-    bot.setWebHook(`https://<YOUR_VERCEL_APP_NAME>.vercel.app/bot${token}`);
+    bot.setWebHook(`https://<pyjobsbot-d4qq>.vercel.app/bot${7260869261:AAHzihTN6zztZYEj_gfb4abdiMBTyc3vAXA}`);
 });
